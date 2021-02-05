@@ -1,4 +1,4 @@
-# :octocat: Pro Git
+# :octopus: Pro Git
 
 Repo for practicing more advanced concepts of version control.
 
