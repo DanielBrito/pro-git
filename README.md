@@ -1,8 +1,8 @@
-# Pro Git
+# :octocat: Pro Git
 
-Learning and practicing concepts of version control.
+Repo for practicing more advanced concepts of version control.
 
-## Helpful resources
+## :toolbox: Helpful Resources
 
 - [Git Cheat Sheet](https://about.gitlab.com/images/press/git-cheat-sheet.pdf)
 - [Pro Git](https://git-scm.com/book/en/v2)
