@@ -2,10 +2,13 @@
 
 Repo for practicing advanced concepts of version control.
 
+## :books: Books
+
+- [Pro Git](https://git-scm.com/book/en/v2) (Scott Chacon & Ben Straub)
+
 ## 📑 Resources
 
-- [Git Cheat Sheet](https://about.gitlab.com/images/press/git-cheat-sheet.pdf)
-- [Pro Git](https://git-scm.com/book/en/v2)
+- [Git Cheat Sheet](https://about.gitlab.com/images/press/git-cheat-sheet.pdf) (GitLab)
 - [Writing Better Git Commit Messages](https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/) (Natalie Pina)
 
 ## :toolbox: Tools
