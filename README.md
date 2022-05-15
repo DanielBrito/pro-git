@@ -11,6 +11,7 @@ Repo for practicing advanced concepts of version control.
 - [Git Cheat Sheet](https://about.gitlab.com/images/press/git-cheat-sheet.pdf) (GitLab)
 - [Writing Better Git Commit Messages](https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/) (Natalie Pina)
 - [17 Git Best Practices](https://itnext.io/17-git-best-practices-1988c7306e6b) (Mohammad-Ali A'RÂBI)
+- [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 
 ## :toolbox: Tools
 
