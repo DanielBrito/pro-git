@@ -12,6 +12,7 @@ Repo for practicing advanced concepts of version control.
 - [Writing Better Git Commit Messages](https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/) (Natalie Pina)
 - [17 Git Best Practices](https://itnext.io/17-git-best-practices-1988c7306e6b) (Mohammad-Ali A'RÂBI)
 - [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
+- [Semantic Commit Messages](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716)
 
 ## :toolbox: Tools
 
