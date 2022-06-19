@@ -17,4 +17,6 @@ Repo for practicing advanced concepts of version control.
 ## :toolbox: Tools
 
 - [GUI Clients](https://git-scm.com/downloads/guis)
+- [Commitizen](https://github.com/commitizen/cz-cli)
+- [Commitlint](https://github.com/conventional-changelog/commitlint)
 
